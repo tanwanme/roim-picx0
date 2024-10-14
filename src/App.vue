@@ -56,9 +56,9 @@ import { useRouter } from 'vue-router'
 import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from "element-plus/es/locale/lang/zh-cn"
 
-const repoLink = 'https://blog.wavecode.xyz'
-const repoName = 'wave'
-const appName = '图床管理工具'
+const repoLink = 'https://yaohuo.me'
+const repoName = 'YaoHuo'
+const appName = 'R2图床'
 
 document.title = appName
 
